@@ -1,7 +1,7 @@
 # Личный проект «YetiCave»
 
 * Студент: [Marie Mistral](https://up.htmlacademy.ru/php/7/user/580307).
-* Наставник: [Алексей Стулов] (https://htmlacademy.ru/profile/id25231).
+* Наставник: [Алексей Стулов] (https://up.htmlacademy.ru/profile/id25231).
 
 ---
 
